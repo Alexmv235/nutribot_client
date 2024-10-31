@@ -7,7 +7,7 @@
 /* Menú lateral (sidebar) */
 .sidebar {
   width: 20%; /* Mantiene el 20% de la pantalla */
-  background-color: #001f3f;
+  background-color: #7b113d;
   color: white;
   display: flex;
   flex-direction: column;
